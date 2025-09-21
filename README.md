@@ -84,5 +84,3 @@ Assignment 4 – Autoencoders & Variational Autoencoders (VAE)
 
 ⸻
 
-🚀 How to Run
-	1.	Clone this repository:
